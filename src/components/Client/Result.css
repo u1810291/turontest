@@ -1,0 +1,8 @@
+.hi p{
+    color:rgb(0, 0, 0);
+    font-weight: 100;
+    font-size:22px;
+    display: flex;
+    margin-left:8%;
+    text-align: justify;
+}

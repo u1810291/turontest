@@ -1,0 +1,145 @@
+.head h4{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 700;
+    color:#4CAF50;
+    margin:20px;
+    font-size:26px;
+    text-align: center;
+}
+.head h6{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 700;
+    color:rgb(83, 83, 83);
+    margin:20px;
+    font-size:20px;
+    margin-top:35px;
+    text-align: center;
+}
+.head h5{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 700;
+    color:rgb(83, 83, 83);
+    font-size:16px;
+    text-align: left;
+    margin-left:5%;
+}
+.head h3{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 700;
+    color:rgb(83, 83, 83);
+    font-size:20px;
+    text-align: left;
+    margin-left:5%;
+   
+}
+.flex1{
+    display: flex;
+    text-align: center;
+    justify-content:center;
+}
+
+.group-flexbox{
+    /* display: flex; */
+ 
+    margin-right:20%;
+}
+.group2-flexbox{
+    /* display: flex; */
+   margin-right:10%;
+    /* margin-top:5px; */
+}
+
+.group4-flexbox{
+    display: flex;
+    justify-content: center;
+    margin-top:35px;
+    margin-left:100px;
+    margin-right:100px;
+}
+.head input[type='text']{
+    margin:10px;
+    margin-top:7px;
+    width:115%;
+}
+
+.head input[name='date_start']{
+    width:115%;
+    margin:10px;
+    margin-top:7px;
+    
+}
+.head input[name='date_end']{
+    width:115%;
+    margin:10px;
+    margin-top:7px;
+
+}
+
+.head select[name='branch']{
+    width:140%;
+    margin:12px;
+    margin-top:5px;
+    padding:4px;
+}
+.head select[name='department']{
+    width:140%;
+    margin:12px;
+    margin-top:5px;
+    padding:4px;
+}
+.head select[name='position']{
+    width:140%;
+    margin:12px;
+    margin-top:5px;
+    padding:4px;
+}
+
+.groupname{
+    border-radius:5px;
+    border:1px solid rgb(161, 161, 161);
+}
+.checkbox{
+    margin:10px;
+    
+}
+.submitform{
+    margin-bottom:10px;
+    background-color: #4CAF50;;
+    border-radius:5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:white;
+    font-weight:500;
+    font-size:18px;
+    width:100px;
+}
+.custom-control-label::before, 
+.custom-control-label::after {
+top: .8rem;
+width: 1.25rem;
+height: 1.25rem;
+}
+
+
+.card {
+    position: relative;
+    justify-content: center;
+    margin-top: 1%;
+    margin-bottom:1%;
+    border-color: #333;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 0.25rem;
+    -webkit-box-shadow: 0 0.46875rem 2.1875rem rgba(0, 0, 0, 0.03), 0 0.9375rem 1.40625rem rgba(0, 0, 0, 0.03), 0 0.25rem 0.53125rem rgba(0, 0, 0, 0.05), 0 0.125rem 0.1875rem rgba(0, 0, 0, 0.03);
+    box-shadow: 0 0.46875rem 2.1875rem rgba(0, 0, 0, 0.03), 0 0.9375rem 1.40625rem rgba(0, 0, 0, 0.03), 0 0.25rem 0.53125rem rgba(0, 0, 0, 0.05), 0 0.125rem 0.1875rem rgba(0, 0, 0, 0.03);
+    border-width: 0.1;
+    -webkit-transition: all .2s;
+    -o-transition: all .2s;
+    transition: all .2s;
+}

@@ -1,0 +1,25 @@
+.Card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 100%;
+    border-radius: 5px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  
+  .Card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  .Container {
+    padding: 2px 16px;
+  }
+  .userDetails {
+    background-color: rgb(43,150,243);
+    color: white;
+  }
+  /* .userInfoDiv{
+    
+    width: 70%;
+    align-self: center
+  } */

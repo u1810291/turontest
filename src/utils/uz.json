@@ -1,0 +1,210 @@
+{
+    "Admin": {
+        "QuestionCategory": {
+            "QuestionCategories": "Саволлар тоифаси",
+            "TotalResult": "Натижалар сони:",
+            "Category": "Тоифа",
+            "Time": "Вақт"
+        },
+        "AdminUser":{
+            "GroupCreate": "Гурух яратиш",
+            "NameofGroup":"Гурух номи",
+            "Teststart":"Тест бошланиш вақти",
+            "TestEnd":"Тест тугаш вақти",
+            "branch":"Филиал",
+            "Choosebranch":" Филиал танланг",
+            "Department":"Булим",
+            "ChooseDepartment":"Булим танланг",
+            "Position":"Лавозим",
+            "ChoosePosition":"Лавозим танланг",
+            "QuestionCategory":"Саволлар категорияси",
+            "Save":"Сақлаш",
+            "Nomorethan3category":" 3 тадан ортиқ категория танлаш мумкин емас"
+        },
+        "Users":{
+                "Users":"Ходимлар",
+                "AddUserMenu": "Ходим қўшиш"
+            },
+        "UserList":{
+            "ResultsNum":"Натижалар сони",
+            "branch":"Филиал",
+            "Department":"Булим",
+            "Postion":"Лавозим",
+            "Surname":"Фамилия",
+            "Name":"Исм",
+            "LastName":"Шариф",
+            "Login":"Kirish",
+            "LoginName": "Логин",
+            "Password": "Пароль",
+            "Аctive":"Faol",
+            "Group":"Гурух"
+        },
+        "AdminDetailResult":{
+            "PersonalInfo":"Шахсий ма'лумотлари",
+            "QuestionCategories":"Савол тоифаси",
+            "ResultsNum":"Саволлар сони",
+            "TestTime":"Тест вақти ",
+            "TimeStartTest":"Тест бошланиш вақти",
+            "TimeEndTest":"Якунланиш вақти ",
+            "CorrectAnswers":"Тўғри жавоблар",
+            "WrongAnswers":"Нотўғри жавоблар",
+            "Score":"Бахо",
+            "Comment":"Изох",
+            "Tries":"Уриниш",
+            "Succespass":"Муваффақиятли топширилди"
+        },
+        "AdminResult":{
+            "Results":"Натижа",
+            "CreateGroupByOne": "БИТТА ЛАВОЗИМ УЧУН ГУРУҲ ЯРАТИШ",
+            "CreateGroupByMany": "БАРЧА УЧУН ГУРУҲ ЯРАТИШ"
+        },
+        "AdminResultsUsers":{
+            "ResultsNum":"Натижалар сони",
+            "Surname":"Фамилия",
+            "Name": "Исм",
+            "branch":"Филиал",
+            "LastName": "Шариф",
+            "Department":"Булим",
+            "Position":"Лавозим",
+            "Category":"Тоифа",
+            "Date":"Сана",
+            "Act":"Тулиқроқ",
+            "Finished": "Тугатилинган",
+            "Info":"Ма'лумот"
+        },
+       "MainAdmin":{
+           "Main":"Асосий",
+           "Help":"Ёрдам",
+           "Leave":"Чиқиш",
+           "AdminTest":"Test администратори",
+           "QuestionCategories":"Саволлар тоифаси",
+           "Groups":"Гурух",
+           "UploadQuestions":"Савол юкламоқ",
+           "Results":"Натижа",
+           "AdminUsers":"Фойдаланувчи администратори",
+           "Users":"Ходимлар",
+           "GroupCreate":"Гурух яратиш"
+       },
+        "upload":{
+            "addQuestions":"Савол қушиш",
+            "CategoryName":" Тоифа номи",
+            "timetocategory":"Тоифа учун вақт",
+            "Upload":" Юкламоқ",
+            "addfile":"Файл юкламоқ",
+            "FileRequired": "Файл топилмади",
+            "SingleUpload": "Савол қўшиш",
+            "Question": "Савол",
+            "VariantA": "A вариант",
+            "VariantB": "B вариант",
+            "VariantC": "C вариант",
+            "VariantD": "D вариант",
+            "RightAnswer": "Тўғри жавоб",
+            "TimeForQuestion": "Савол учун вақт",
+            "ChooseCategory": "Тоифани танланг"
+        },     
+       "Editemployee":{
+           "Group":"Гурух",
+           "AssignedQuestions":"Бириктирилган Савол 1",
+           "AssignedQuestions2":"Бириктирилган Савол 2",
+           "AssignedQuestions3":" Бириктирилган Савол3",
+           "Save":"Сақламоқ"   
+       },
+       "CategoryUsers":{
+           "ResultsNum":"Жавоблар сони",
+           "NameofGroup":"Гуруҳ",
+           "Search": "Излаш...",
+           "DeadlineStart":"Бошланиш вақти",
+           "DeadlineEnd":"Тугаш вақти",
+           "branch":"Филиал",
+           "Department":"Бўлим",
+           "Postion":"Лавозим",
+           "AssignedQuestions":"Натижалар сони 1",
+           "AssignedQuestions2":"Натижалар сони 2",
+           "AssignedQuestions3":" Натижалар сони 3",
+           "Act":"Тулиқроқ",
+           "Edit":"Таҳрирлаш"
+       },
+       "Report": {
+        "Results":"Жавоблар",
+        "UploadReport": "Excel га юкламоқ",
+        "ReportByOne": "БИТТА  САВОЛ  ТОИФАСИ  НАТИЖАСИ",
+        "ReportByMany": "УЧ  САВОЛ  ТОИФАСИ  НАТИЖАСИ",
+        "QuestionCategory": "Савол тоифаси",
+        "ChooseQuestionCategory": "Савол тоифасини танланг"
+            
+        }
+    },
+    "User": {
+        "Test": {
+            "TuronBank": "ТуронБанк",
+            "Question": "Савол",
+            "Finish": "Тугатиш",
+            "Your Score": "Сизнинг натижангиз",
+            "CategoryName": "Категория номи:",
+            "QuestionsAmount":"Саволлар сони:",
+            "InCorrectAnswersAmount": "Нотуғри жавоблар сони:",
+            "CorrectAnswersAmount": "Туғри жавоблар сони",
+            "Score": "Балл",
+            "Status": "Баҳо",
+            "Good": "Яхши",
+            "Alert": "Огоҳлантириш",
+            "Please answer to all questions": "Илтимос барча саволларга жавоб беринг",
+            "UnsatisfactoryStatus": "Қониқарсиз",
+            "SatisfactoryStatus": "Қониқарли",
+            "ExcellentStatus": "Аъло",
+            "Passed": "Мувафақиятли топширилди",
+            "Failure": "Мувафақиятсиз топширилди",
+            "Refused": "Рад этилди"
+        },
+        "TestDetails" :{
+            "Your_answer": "Жавобингиз",
+            "Correct":"Тўғри жавоб"
+        },
+
+        "UserArchieve" :{
+            "Test_results":"Тест жавоблари",
+            "View_Details":"Маълумотларни кўриш",
+            "Category":"Бўлим",
+            "StartTime": "Бошланиш вақти",
+            "FinishTime": "Тугатилинган вақти",
+            "Correct":"Тўғри жавоблар",
+            "Close":"Ёпиш",
+            "NoArchieveYet": "Сизда архивлаштирилган саволлар йуқ"
+        },
+        "UserPage":{
+            "Designated":"Бириктирилган тестлар",
+            "Archieve":"Архив",
+            "Employee Information":"Ходим маълумоти",
+            "LogOut": "Чиқиш",
+            "FIO": "Ф.И.Ш.",
+            "Branch": "Филиал",
+            "Department": "Бўлим",
+            "Position": "Лавозими"
+        },
+
+        "UserTests":{
+            "Testing Information":"Тест холати",
+            "AssignDate": "Тест бириктирилган сана",
+            "Refuse_test":"Тестдан чиқиш",
+            "Start_test":"Тестни бошлаш",
+            "Test_rejection":"Тестни бекор қилиш",
+            "Refuse_Text":"Бекор қииш тугмасини боссангиз тестдан ўтолмайсиз хамда балл еғолмайсиз",
+            "Cancel":"Бекор қилиш",
+            "Refuse":"Рад этиш",
+            "ReasonRefuse": "причина вашего отказа",
+            "Testing":"Синов",
+            "Reallystarttesting":"Сиз тест топширишга тайёрмисиз",
+            "Yes":"Ха",
+            "No":"Йўк",
+            "Left":"Қолди",
+            "Duration": "Давомийлиги (мин.)",
+            "TimeIsUp":"Вақтингиз тугади",
+            "AnswersSaved":"Жавобларингиз сақланди. Архив бўлимидан топишингиз мумкин",
+            "Ok":"Ок",
+            "Next": "Кейингиси",
+            "Previous": "Аввалги",
+            "LinesAmount": "Сатрлар сони:",
+            "NoTestsYet": "Сизда бириктирилган тестлар мавжуд эмас"
+        }
+    }
+}

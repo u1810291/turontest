@@ -1,0 +1,133 @@
+.radiocontainer {
+    background-color:#f1f1f1;
+    display: block;
+    border-radius: 15px;
+    position: relative;
+    padding:10px 10px 10px 50px;
+    margin-bottom: 1px;
+    cursor: pointer;
+    font-size: 18px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    word-wrap: break-word;
+  }
+  .radiocontainer input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+  }
+  .radiocontainerAnswer{
+    
+    display: block;
+    position: relative;
+    padding:10px 10px 10px 0px;
+    margin-bottom: 1px;
+    cursor: pointer;
+    font-size: 18px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    word-wrap: break-word;
+  }
+  .radiocontainer input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+  }
+  .radiocontainer:hover input ~ .checkmark {
+    /*nothing*/
+  }
+  .radiocontainer:hover {
+    background-color: #ddd;
+  }
+
+  .radiocontainer input:checked ~ .checkmark {
+    background-color: #2196F3;
+  }
+  .radiocontainer input:checked ~ .checkmark:after {
+    display: block;
+  }
+  /* Style the indicator (dot/circle) */
+  .radiocontainer .checkmark:after {
+       top: 6px;
+      left: 6px;
+      width: 7px;
+      height: 7px;
+      border-radius: 50%;
+      background: white;
+  }
+
+  .checkmark {
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    height: 19px;
+    width: 19px;
+    background-color: #fff;
+    border-radius: 50%;
+  }
+  .checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+  }
+
+  #snackbar {
+    visibility: hidden;
+    min-width: 250px;
+    margin-left: -125px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    border-radius: 2px;
+    padding: 16px;
+    position: fixed;
+    z-index: 1;
+    left: 50%;
+    bottom: 20vw;
+    font-size: 17px;
+  }
+  
+  #snackbar.show {
+    visibility: visible;
+    -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+    animation: fadein 0.5s, fadeout 0.5s 2.5s;
+  }
+  
+  @-webkit-keyframes fadein {
+    from {bottom: 0; opacity: 0;} 
+    to {bottom: 20vw; opacity: 1;}
+  }
+  
+  @keyframes fadein {
+    from {bottom: 0; opacity: 0;}
+    to {bottom: 20vw; opacity: 1;}
+  }
+  
+  @-webkit-keyframes fadeout {
+    from {bottom: 20vw; opacity: 1;} 
+    to {bottom: 0; opacity: 0;}
+  }
+  
+  @keyframes fadeout {
+    from {bottom: 20vw; opacity: 1;}
+    to {bottom: 0; opacity: 0;}
+  }
+  
+  .question-text h5 {
+    color: #444;
+    line-height: 30px;
+  }
+  .card h6{
+    opacity: 0.8;
+    font-size: 18px;
+  }
+
+  .float-right {
+    text-align: right !important;
+    margin-top: 20px;
+    margin-bottom: 40px;
+  }

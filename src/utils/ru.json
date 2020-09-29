@@ -1,0 +1,214 @@
+{
+    "Admin": {
+        "QuestionCategory": {
+            "QuestionCategories": "Категория Вопросов",
+            "TotalResult": "Натижалар сони:",
+            "Category": "Категория",
+            "Time": "Вақт"
+        },
+        "AdminUser":{
+            "GroupCreate": "Создать Группу",
+            "NameofGroup":"Наименование Группы",
+            "Teststart":"Дата начала Тестирование",
+            "TestEnd":"Дата Окончание",
+            "branch":"Филиал",
+            "Choosebranch":"Выберите Филиал",
+            "Department":"Департамент",
+            "ChooseDepartment":"Выберите Отдел",
+            "Position":"Должность",
+            "ChoosePosition":"Выберите Должность",
+            "QuestionCategory":"Категория Вопроса",
+            "Save":"Сохранить",
+            "Nomorethan3category":"Невозможно выбрать более 3 категорий"
+        },
+         "Users":{
+            "Users":"Пользователи",
+            "AddUserMenu": "Добавить пользователя"
+         },
+         "UserList":{
+          "ResultsNum":"Кол-во Результатов",
+          "branch":"Филиал",
+          "Department":"Департамент",
+          "Postion":"Должность",
+          "Surname":"Фамилия",
+          "Name":"Имя",
+          "LastName":"Отчество",
+          "Login":"Логин",
+          "LoginName": "Логин",
+          "Password": "Пароль",
+          "Аctive":"Активен",
+          "Group":"Группа"
+         },
+        "AdminDetailResult":{
+            "PersonalInfo":"Персональные данные",
+            "QuestionCategories":"Категория вопросов",
+            "ResultsNum":"Количество вопросов",
+            "TestTime":"Время на тест",
+            "TimeStartTest":"Время начала теста",
+            "TimeEndTest":"Время окончания теста",
+            "CorrectAnswers":"Правильных ответов",
+            "WrongAnswers":"Неправильных ответов",
+            "Score":"Балл",
+            "Comment":"Комментарий",
+            "Tries":"Попыток",
+            "Succespass":"Успешно пройден"
+        },
+        "AdminResult":{
+            "Results":"Результаты",
+            "CreateGroupByOne": "СОЗДАТЬ ГРУППУ ПО ОДНОЙ ПОЗИЦИИ",
+            "CreateGroupByMany": "СОЗДАТЬ ГРУППУ ДЛЯ ВСЕХ"
+        },
+        "AdminResultsUsers":{
+            "ResultsNum":"Кол-во Результатов",
+            "Surname":"Фамилия",
+            "Name": "Имя",
+            "LastName": "Отчество",
+            "branch":"Филиал",
+            "Department":"Департамент",
+            "Position":"Должность",
+            "Category":"Категория",
+            "Date":"Дата",
+            "Act":"Действие",
+            "Finished": "Завершён",
+            "Info":"Инфо"
+        },
+        "MainAdmin":{
+            "Main":"Главная",
+            "Help":"Помощь",
+            "Leave":"Выход",
+            "AdminTest":"Админ Тестов",
+            "QuestionCategories":"Категория вопросов",
+            "Groups":"Группы",
+            "UploadQuestions":"Загрузить вопросы",
+            "Results":"Результаты",
+            "AdminUsers":"Админ Пользователей",
+            "Users":"Пользователи",
+            "GroupCreate":" Создать группу"
+        },
+        "upload":{
+            "addQuestions":"Добавление вопросов",
+            "CategoryName":" Наименование категории",
+            "timetocategory":"Время для категории",
+            "Upload":" Загрузить",
+            "addfile":"Выберите файл",
+            "FileRequired": "Файл не выбран",
+            "SingleUpload": "Добавить вопрос",
+            "Question": "Вопрос",
+            "VariantA": "Вариант A",
+            "VariantB": "Вариант B",
+            "VariantC": "Вариант C",
+            "VariantD": "Вариант D",
+            "RightAnswer": "Правильный ответ",
+            "TimeForQuestion": "Время на вопрос",
+            "ChooseCategory": "Выберите категорию"
+        },
+        "Editemployee":{
+            "Group":"Группа",
+            "AssignedQuestions":"Назначенный Вопрос 1",
+            "AssignedQuestions2":"Назначенный Вопрос 2",
+            "AssignedQuestions3":" Назначенный Вопрос 3",
+            "Save":"Сохранить"
+
+        },
+        "CategoryUsers":{
+            "ResultsNum":"Кол-во Результатов",
+            "Search": "Поиск...",
+            "NameofGroup":"Наименование группы",
+            "DeadlineStart":"Срок начала",
+            "DeadlineEnd":"Конечный срок",
+            "branch":"Филиал",
+            "Department":"Департамент",
+            "Postion":"Должность",
+            "AssignedQuestions":"Назначенный Вопрос 1",
+            "AssignedQuestions2":"Назначенный Вопрос 2",
+            "AssignedQuestions3":" Назначенный Вопрос 3",
+            "Act":"Подробнее",
+            "Edit":"Редактировать"
+        },
+        "Report": {
+            "Results":"Отчёт",
+            "UploadReport": "Загрузить отчёт",
+            "ReportByOne": "ОТЧЕТ ПО ОДНОЙ КАТЕГОРИИ ВОПРОСА",
+            "ReportByMany": "ОТЧЕТ ПО ТРЕМ КАТЕГОРИЯМ ВОПРОСОВ",
+            "QuestionCategory": "Категория вопроса",
+            "ChooseQuestionCategory": "Выберите категорию вопроса"
+        }
+
+    },
+        "User": {
+            "Test": {
+                "TuronBank": "ТуронБанк",
+                "Question": "Вопрос",
+                "Finish": "Завершить",
+                "Your_Score": "Ваш результат",
+                "CategoryName": "Наименование категории:",
+                "QuestionsAmount":"Количество вопросов:",
+                "InCorrectAnswersAmount": "Количество неправильных ответов:",
+                "CorrectAnswersAmount": "Количество правильных ответов",
+                "Score": "Балл",
+                "Status": "Оценка",
+                "Good": "Хорошо",
+                "UnsatisfactoryStatus": "Неудовлетворительно",
+                "SatisfactoryStatus": "Удовлетворительно",
+                "ExcellentStatus": "Отлично",
+                "Alert": "Предупреждение",
+                "Please_answer_to_all_questions": "Пожалуйста ответьте на все вопросы!",
+                "Passed": "Пройдено",
+                "Failure": "Не пройдено",
+                "Refused": "Отказался"
+            },
+
+            "TestDetails" :{
+                "Your_answer": "Ваш ответ",
+                "Correct":"Правильный"
+            },
+
+            "UserArchieve" :{
+                "Test_results":"Результаты теста",
+                "View_Details":"Посмотреть детали",
+                "StartTime": "Время начала",
+                "FinishTime": "Время завершения",
+                "Category":"Категория:",
+                "Correct":"Правильных:",
+                "Close":"Закрыть",
+                "NoArchieveYet": "У вас пока нет архива!"
+            },
+
+            "UserPage":{
+                "Designated":"Назначенные тесты",
+                "Archieve":"Архив",
+                "Employee_Information":"Информация о сотруднике",
+                "LogOut": "Выйти",
+                "FIO": "Ф.И.О",
+                "Branch": "Филиал",
+                "Department": "Департамент",
+                "Position": "Позиция"
+            },
+
+            "UserTests":{
+                "AssignDate": "Назначенная дата",
+                "Duration": "длительность (мин.)",
+                "Testing_Information":"Информация о тестировании",
+                "Refuse_test":"Отказаться от теста",
+                "Start_test":"Начать тест",
+                "Test_rejection":"Отказ от тестирования",
+                "Refuse_Text":"Нажимая на кнопку Отказаться вы отказываетесь от сдачи тестирования. Ваш результат за этот тест будет аннулирован.",
+                "Cancel":"Отмена",
+                "ReasonRefuse": "причина вашего отказа",
+                "Refuse":"Отказаться",
+                "Testing":"Тестирование",
+                "Reallystarttesting":"Вы действительно готовы начать тестирование?",
+                "Yes":"Да",
+                "No":"Нет",
+                "Left":"Осталось:",
+                "TimeIsUp":"Ваше время вышло",
+                "AnswersSaved.":"Ваши ответы на отвеченные вопросы были сохранены. С результатами теста можете ознакомиться в разделе Архив.",
+                "Ok":"ОК",
+                "Next": "Следующая",
+                "Previous": "Предыдущая",
+                "LinesAmount": "Количество строк:",
+                "NotAnswered": "Вы не ответили на этот вопрос",
+                "NoTestsYet": "У вас пока нет назначенных тестов!"
+            }
+        }
+}
